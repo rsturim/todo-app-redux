@@ -1,0 +1,15 @@
+{
+    "todos": [
+        {
+            "id": 1,
+            "name": "Load data into app",
+            "isComplete": true
+        },
+
+        {
+            "name": "feed goldfish",
+            "isComplete": false,
+            "id": 10
+        }
+    ]
+}
