@@ -1,4 +1,4 @@
-# React Webpack Boilerplate
+# React Webpack Redux Todo Demo App
 
 ## Todo app demo
 
