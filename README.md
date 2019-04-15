@@ -1,4 +1,4 @@
-# React Webpack Redux Todo Demo App
+# React Redux Webpack Todo Demo App
 
 ## Todo app demo
 
