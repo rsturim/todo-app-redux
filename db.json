@@ -1,15 +1,34 @@
 {
-    "todos": [
-        {
-            "id": 1,
-            "name": "Load data into app",
-            "isComplete": true
-        },
-
-        {
-            "name": "feed goldfish",
-            "isComplete": false,
-            "id": 10
-        }
-    ]
+  "todos": [
+    {
+      "id": 1,
+      "name": "Load data into app",
+      "isComplete": true
+    },
+    {
+      "name": "feed goldfish",
+      "isComplete": true,
+      "id": 10
+    },
+    {
+      "name": "shop for candy",
+      "isComplete": true,
+      "id": 11
+    },
+    {
+      "name": "buy goldfish",
+      "isComplete": false,
+      "id": 12
+    },
+    {
+      "name": "shop for golf balls",
+      "isComplete": false,
+      "id": 13
+    },
+    {
+      "name": "purchase concert tickets",
+      "isComplete": false,
+      "id": 14
+    }
+  ]
 }
