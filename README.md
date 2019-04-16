@@ -13,3 +13,8 @@
 -   eslint/prettier
 -   husky (pre-commit hooks)
 
+## To run app
+
+In a terminal window run `npm run dev-server`
+
+In a 2nd terminal window run `npm start`
