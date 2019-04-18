@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { BrowserRouter as Router, Route } from 'react-router-dom';
 
-import logo from './styles/logo.svg';
+// import logo from './styles/logo.svg';
 
 import TodoForm from './components/TodoForm';
 import TodoList from './components/TodoList';
@@ -13,7 +13,7 @@ class App extends Component {
         return (
             <div className="App">
                 <div className="App-header">
-                    <img src={logo} className="App-logo" alt="logo" />
+                    {/* <img src={logo} className="App-logo" alt="logo" /> */}
 
                     <h2>Another Todo App (with Redux)</h2>
                 </div>
